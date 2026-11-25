@@ -1,0 +1,36 @@
+HUFFMAN FILE COMPRESSOR - TEST RESULTS
+Student: Navraj Amgai
+Roll No.: 2501730493
+Project: File Compression Using Huffman Coding
+Course: Design & Analysis of Algorithms
+Test date: 25 November 2026
+
+1. AUTOMATED ALGORITHM TESTS
+Command: npm test
+Runner: Node.js built-in node:test
+Result: PASS - 7 tests passed, 0 failed.
+
+The tests cover:
+- Normal text compression and exact restoration.
+- Empty input.
+- A file containing one repeated symbol.
+- All 256 possible byte values.
+- UTF-8 text.
+- Invalid compressed-file signature.
+- Truncated compressed-file metadata.
+
+2. SOURCE AND PAGE CHECKS
+- JavaScript syntax check: PASS.
+- All element IDs referenced by src/app.js are present in index.html: PASS.
+- Static page has matching sample text in the input area and application code: PASS.
+
+3. SAMPLE COMPRESSION MEASUREMENT
+Sample input size: 1,308 bytes
+Compressed HUF1 file size: 1,115 bytes
+Encoded data: 5,919 bits
+Space saved: 14.8%
+Round-trip verification using HuffmanCore.decompressBytes: PASS
+
+The size measurement includes the HUF1 metadata. Results depend on the input. Small or non-repetitive files can become larger because the metadata is stored with the compressed data.
+
+Note: The website UI is intended to run in a modern browser. The automated checks in this file verify the algorithm, source syntax and page element references; they are not a full interactive browser automation test.
