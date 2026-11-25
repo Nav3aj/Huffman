@@ -1,0 +1,21 @@
+Huffman Coding Capstone Project
+Course: Design and Analysis of Algorithms
+Student: Navraj Amgai
+
+Huffman Coding is a lossless compression algorithm. It assigns shorter binary codes to frequent symbols and longer codes to rare symbols. The original data can be recovered exactly after decompression.
+
+This project demonstrates frequency counting, a min-heap, Huffman tree construction, binary encoding, decoding, and algorithm analysis.
+Huffman Coding Capstone Project
+Course: Design and Analysis of Algorithms
+Student: Navraj Amgai
+
+Huffman Coding is a lossless compression algorithm. It assigns shorter binary codes to frequent symbols and longer codes to rare symbols. The original data can be recovered exactly after decompression.
+
+This project demonstrates frequency counting, a min-heap, Huffman tree construction, binary encoding, decoding, and algorithm analysis.
+Huffman Coding Capstone Project
+Course: Design and Analysis of Algorithms
+Student: Navraj Amgai
+
+Huffman Coding is a lossless compression algorithm. It assigns shorter binary codes to frequent symbols and longer codes to rare symbols. The original data can be recovered exactly after decompression.
+
+This project demonstrates frequency counting, a min-heap, Huffman tree construction, binary encoding, decoding, and algorithm analysis.
